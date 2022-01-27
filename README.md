@@ -13,7 +13,7 @@ This file contains the JINJA file which is the structure of bouler plate code. A
 It contains the mapping between python and language data type. 
 ## app.py
 Main logic
-## JSON file (ex: data.json)
+JSON file (ex: data.json)
 
 # What should I do as a user
 You only need a data model in JSON format. Keep it on app.py level.

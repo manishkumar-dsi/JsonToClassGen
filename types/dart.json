@@ -1,0 +1,7 @@
+{
+    "str":"String",
+    "int": "int",
+    "double": "float",
+    "List": "List",
+    "bool": "bool"
+}
